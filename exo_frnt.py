@@ -188,4 +188,4 @@ if page == "About":
     st.markdown("""**[Source code](https://github.com/cicykagnes/exoplanet/blob/main/exo_frnt.py)**""")
 
     st.write("Created on 09/05/2021")
-    st.write("Last updated: **09/05/2021**")
+    st.write("Last updated: **19/05/2021**")
